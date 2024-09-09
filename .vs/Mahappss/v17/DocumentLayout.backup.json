@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cepheus\\source\\repos\\Mahappss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01347293-FB44-407C-B842-A9BC361BDAC8}|Mahappss\\Mahappss.csproj|c:\\users\\cepheus\\source\\repos\\mahappss\\mahappss\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01347293-FB44-407C-B842-A9BC361BDAC8}|Mahappss\\Mahappss.csproj|solutionrelative:mahappss\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01347293-FB44-407C-B842-A9BC361BDAC8}|Mahappss\\Mahappss.csproj|c:\\users\\cepheus\\source\\repos\\mahappss\\mahappss\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01347293-FB44-407C-B842-A9BC361BDAC8}|Mahappss\\Mahappss.csproj|solutionrelative:mahappss\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01347293-FB44-407C-B842-A9BC361BDAC8}|Mahappss\\Mahappss.csproj|c:\\users\\cepheus\\source\\repos\\mahappss\\mahappss\\models\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01347293-FB44-407C-B842-A9BC361BDAC8}|Mahappss\\Mahappss.csproj|solutionrelative:mahappss\\models\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01347293-FB44-407C-B842-A9BC361BDAC8}|Mahappss\\Mahappss.csproj|c:\\users\\cepheus\\source\\repos\\mahappss\\mahappss\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01347293-FB44-407C-B842-A9BC361BDAC8}|Mahappss\\Mahappss.csproj|solutionrelative:mahappss\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\Cepheus\\source\\repos\\Mahappss\\Mahappss\\Models\\Budget.cs",
+              "RelativeDocumentMoniker": "Mahappss\\Models\\Budget.cs",
+              "ToolTip": "C:\\Users\\Cepheus\\source\\repos\\Mahappss\\Mahappss\\Models\\Budget.cs",
+              "RelativeToolTip": "Mahappss\\Models\\Budget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:49:46.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Cepheus\\source\\repos\\Mahappss\\Mahappss\\App.xaml",
+              "RelativeDocumentMoniker": "Mahappss\\App.xaml",
+              "ToolTip": "C:\\Users\\Cepheus\\source\\repos\\Mahappss\\Mahappss\\App.xaml",
+              "RelativeToolTip": "Mahappss\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T06:10:48.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cepheus\\source\\repos\\Mahappss\\Mahappss\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Mahappss\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Cepheus\\source\\repos\\Mahappss\\Mahappss\\MainWindow.xaml",
+              "RelativeToolTip": "Mahappss\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T05:36:43.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cepheus\\source\\repos\\Mahappss\\Mahappss\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Mahappss\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Cepheus\\source\\repos\\Mahappss\\Mahappss\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "Mahappss\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:36:28.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
